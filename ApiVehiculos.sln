@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositorioVehiculos", "Rep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseRepositorio", "..\BaseRepositorio\BaseRepositorio\BaseRepositorio.csproj", "{F71CFB2D-A49E-45A9-B8B1-E913A755E8B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteApiVehiculos", "ClienteApiVehiculos\ClienteApiVehiculos.csproj", "{B828AC89-D153-4224-8D7D-9E908205FEAC}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,10 +27,6 @@ Global
 		{F71CFB2D-A49E-45A9-B8B1-E913A755E8B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F71CFB2D-A49E-45A9-B8B1-E913A755E8B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F71CFB2D-A49E-45A9-B8B1-E913A755E8B8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B828AC89-D153-4224-8D7D-9E908205FEAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B828AC89-D153-4224-8D7D-9E908205FEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B828AC89-D153-4224-8D7D-9E908205FEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B828AC89-D153-4224-8D7D-9E908205FEAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
